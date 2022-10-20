@@ -1,2 +1,2 @@
 # Java-projects
-Minha vivencia (até o momento ) com conteúdo de Java.
+Minha vivencia com conteúdo de Java.
